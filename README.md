@@ -1,6 +1,6 @@
 # IGR204
 
-## Visualization 1 (Celio)
+## Visualization 1 (Celio/Marie/Servane)
 
 Plot a 'value' for each name in histogram. The value is determined by a slider e.g. can be mean, standard deviation, .. and the period where the values associated with the name are taken into account is set by the user. This enable comparison between the different years.
 
