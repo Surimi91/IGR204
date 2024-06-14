@@ -17,3 +17,5 @@ Curve plotting the value associated with the name at each year. One curve by reg
 ## Visualization 3
 
 Histogram of the proportion of people names. They are ordered by popularity. At each x is associate the proportion for boys and girls in two distinct colors.
+
+![alt text](img/vis3.png)
