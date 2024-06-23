@@ -21,3 +21,15 @@ Curve plotting the value associated with the name at each year. One curve by reg
 Histogram of the proportion of people names. They are ordered by popularity. At each x is associate the proportion for boys and girls in two distinct colors.
 
 ![alt text](img/vis3.png)
+
+## How to run the visualizations
+
+Each part is in the viz_i.ipynb respectively. The final choice is in the last cell. Please be sure that the following modules are installed:
+- ipywidget
+- ipython
+- toolz
+- pandas
+- geopandas
+- altair
+
+You can install them with pip or conda.
